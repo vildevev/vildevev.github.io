@@ -8,3 +8,11 @@ table{
 footer{
 	 text-align: center;
 }
+body {
+  background: url(happiness.jpg);
+}
+p{
+	font-style: helvetica;
+}
+p.first{ color: blue; }
+p.second{ color: red; }
