@@ -2,3 +2,9 @@ h2{
 	padding: 10px;
 	border: dashed blue;
 }
+table{
+	margin: 60px;
+}
+footer{
+	 text-align: center;
+}
