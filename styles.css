@@ -12,7 +12,23 @@ body {
   background: url(happiness.jpg);
 }
 p{
-	font-style: helvetica;
+	font-weight: bold;
 }
-p.first{ color: blue; }
-p.second{ color: red; }
+ul.classy {
+  background-color: DodgerBlue;
+}
+h3.corny {
+	background-color: red;
+}
+a:visited {
+    color: green;
+}
+aside#att {
+  background-color: orange;
+}
+@media only screen and (max-width: 500px) {
+    body {
+        font-size: 1em;
+    }
+}
+
