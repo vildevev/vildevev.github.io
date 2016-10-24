@@ -1,1 +1,4 @@
-body {background:blue}
+h2{
+	padding: 10px;
+	border: dashed blue;
+}
